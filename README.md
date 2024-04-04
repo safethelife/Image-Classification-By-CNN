@@ -1,2 +1,2 @@
 # Image-Classification-By-CNN
-Test image classification using CNN Model
+Classify the Image data using the CNN Model
